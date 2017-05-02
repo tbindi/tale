@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Thanmai"
 permalink: /about/
 ---
+Computer Science Grad Student @ Indiana University Bloomington, IN. With 2 years of Work experience in Application and Web Development. Work Experience:
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+- Associate Software Engineer at Fidelity Investments, Chennai from Aug 2012 - Jul 2014
+- Software Engineer at  Loctell, Bangalore from Aug 2014 - Jan 2015
+- Software Engineer at  Innomantra, Bangalore from Jan 2015 - Jul 2015
+- Member of Technical Staff Intern at Tintri, Mountain View from May 2016 - Aug 2016
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+With the help of [Tale](https://github.com/chester/tale), I was able to build this site.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
-
-Thanks for reading!
