@@ -4,7 +4,7 @@ title: "About"
 author: "Thanmai"
 permalink: /about/
 ---
-Computer Science Grad Student @ Indiana University Bloomington, IN. With 2 years of Work experience in Application and Web Development. Work Experience:
+Computer Science Grad Student @ Indiana University Bloomington, IN with 2 years of Work experience in Application and Web Development. Work Experience:
 
 - Associate Software Engineer at Fidelity Investments, Chennai from Aug 2012 - Jul 2014
 - Software Engineer at  Loctell, Bangalore from Aug 2014 - Jan 2015
