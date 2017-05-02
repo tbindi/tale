@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Assignment - 1 : Laravel Portal Deployment"
+title: "Assignment - 2 : Laravel Portal Deployment"
 author: "Thanmai Bindi"
 ---
 
@@ -22,13 +22,11 @@ author: "Thanmai Bindi"
 
 These are some of the commits:
 
-- [Laravel-logging](https://github.com/airavata-courses/spring17-laravel-portal/commit/cae55efb61817c25295dbdd26365233d1d890cf9)
+- [Laravel-Issue running inside docker](https://github.com/airavata-courses/spring17-laravel-portal/issues/10)
 
-- [Modified before install script](https://github.com/airavata-courses/spring17-laravel-portal/commit/b387bfb4fa2dc1d7104a880919eb3214f991325f)
+- [Containerize Laravel Portal](https://github.com/airavata-courses/spring17-laravel-portal/issues/8)
 	
-- [Run Laravel by exposing the port number](https://github.com/airavata-courses/spring17-laravel-portal/commit/1929641c4c5cc826f60ac339e15b93dc1db9e761)
-
-- [Modified to individual port number and individual logging](https://github.com/airavata-courses/spring17-laravel-portal/commit/450223b06e1ad7fc8adc084ed1b2144b380dd8de)
+- [Setting up laravel portal on remote instance](https://github.com/airavata-courses/spring17-laravel-portal/issues/6)
 
 
 ## Apache Airavata developer’s mailing list. 
