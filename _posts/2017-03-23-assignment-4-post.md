@@ -24,7 +24,7 @@ author: "Thanmai Bindi"
 	
 ## Commit URL.
 These are some of the commits:
-	[Two-Phase Commit](https://github.com/supreeth90/two_phase_commit)
+	[Two-Phase Commit Implementation using Global Transaction Manager](https://github.com/supreeth90/two_phase_commit)
 
 ## Apache Airavata developer’s mailing list. 
 	None
