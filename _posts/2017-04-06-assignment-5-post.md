@@ -4,14 +4,13 @@ title: "Assignment - 5 : Two-Phase Commit in Microservices"
 author: "Thanmai Bindi"
 ---
 
-## Problem Statement -- A report of what you did and your outcomes.
-1. What was the problem you tried to solve?
+## Problem Statement
 
-2. How did you solve it?
+## Possible Solution:
 
-3. How did you evaluate your solution?
+## Solution Evaluation:
 
-4. Conclusion
+## Conclusion:
 
 ## How to Run.
 	

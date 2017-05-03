@@ -4,14 +4,16 @@ title: "Assignment - 2 : Laravel Portal Deployment"
 author: "Thanmai Bindi"
 ---
 
-## Problem Statement -- A report of what you did and your outcomes.
-1. What was the problem you tried to solve?
+## Problem Statement:
 - Deploying of Laravel on Amazon instance and containerizing the portal in docker. I had to make the portal work with the install scripts which will not be dependant on the system that it's running.
-2. How did you solve it?
+
+## Possible Solution:
 - Docker scripts was used to run and build the docker image. This pulls the latest code, builds and deploys it to the container. This deletes the container and the image before deploying. Even before the zip is deployed this will install the dependencies like Composer and Zip. After changing the permissions of the folder, the `composer install` downloads all the package. Then copy `.env.example` to `.env` to generate key and run the server. 3 portals will be exposed 3000, 4000 and 5000 for laravel portal.
-3. How did you evaluate your solution?
+
+## Solution Evaluation:
 - Portal once exposed from docker it can be accessed outside as well. So once you go to the particular portal:port via browser this will be open.
-4. Conclusion
+
+## Conclusion:
 - There should be a setup of the docker container on the amazon instances we are deploying to. Once the docker is up to date we can install php and composer. Once these operations are successfully completed we were able to start the docker service.
 
 ## How to Run.

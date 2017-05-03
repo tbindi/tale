@@ -4,14 +4,16 @@ title: "Assignment - 1 : Laravel Portal"
 author: "Thanmai Bindi"
 ---
 
-## Problem Statement -- A report of what you did and your outcomes.
-1. What was the problem you tried to solve?
+## Problem Statement:
 - To understand Laravel Portal working and to deploy using CI/CD methodologies. Setting up laravel on a remote Amazon instance using Docker.
-2. How did you solve it?
+
+## Possible Solution:
 - Installed Laravel on local machine first to understand more about the dependencies of the laravel portal. Some of the dependencies listed were: php, composer and dockerizing it. First we should deploy in docker make sure the dependencies are present before deploying and starting the framework or the actual code. This task can be done using `before-install.sh` script.
-3. How did you evaluate your solution?
+
+## Solution Evaluation:
 - Once we establish CI/CD platform using Docker with use of Travis and Shell script we should be able to control how the code can be deployed smoothly to different Amazon instances across different areas. There is no evaluation of this solution against other as this is the dependency install.
-4. Conclusion
+
+## Conclusion:
 - There should be a setup of the docker container on the amazon instances we are deploying to. Once the docker is up to date we can install php and composer. Once these operations are successfully completed we were able to start the docker service.
 
 ## How to Run.
