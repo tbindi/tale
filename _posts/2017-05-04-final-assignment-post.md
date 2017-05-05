@@ -10,9 +10,10 @@ author: "Thanmai Bindi"
 ## Possible Solutions:
 - Two-Phase Protocol induces immediate consistency. But it works really well in a single architecture. In case of a distributed architecture there are 2 possible solutions to tackle this. In this course we explored these two solutions: 
 - Global Transaction Manager that has direct access to all the databases and it has the knowledge of the dependencies between the schema as explained in the diagram below. Each and every transaction should go through the Global Transaction Manager to complete:
+![Global Transaction Manager](https://github.com/tbindi/tale/tree/master/images/GTM.jpg )
 
 - There is another architecture where there is no need for a Global Transaction Manager. This has thrift calls between the two services that communicates from Service A within a single transaction:
-
+![Two Phase Commit Protocol](https://github.com/tbindi/tale/tree/master/images/Basic.jpg )
 
 ## Solution Evaluation:
 - Both architectures have its disadvantages:
